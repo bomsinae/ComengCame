@@ -1,4 +1,4 @@
-package com.example.comengcame;
+package com.hyunsu.comengcame;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -6,6 +6,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
+import com.hyunsu.comengcame.R;
 
 import android.app.Activity;
 import android.hardware.Camera;

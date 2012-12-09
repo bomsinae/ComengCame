@@ -1,4 +1,4 @@
-package com.example.comengcame;
+package com.hyunsu.comengcame;
 
 import android.content.Context;
 import android.hardware.Camera;
@@ -38,6 +38,7 @@ public class CameraPreView extends SurfaceView implements SurfaceHolder.Callback
 		
 		try {
 			mCamera.stopPreview();
+			
 		} catch (Exception e) {
 			
 		}
